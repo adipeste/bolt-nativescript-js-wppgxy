@@ -1,0 +1,29 @@
+Privacy Policy for MyRoute App
+
+Last updated: [Current Date]
+
+This Privacy Policy describes how MyRoute ("we", "us", or "our") collects, uses, and shares your personal information when you use our mobile application MyRoute (the "App").
+
+Information We Collect:
+1. Location Data: We collect your device's location data to provide navigation services. This data is only collected when you use the App and have granted location permissions.
+2. Map Usage Data: We collect anonymous data about how you use the maps within the App to improve our services.
+
+How We Use Your Information:
+1. To provide and improve our navigation services.
+2. To analyze App usage and improve user experience.
+3. To comply with legal obligations.
+
+Data Sharing and Disclosure:
+We do not sell your personal information. We may share anonymous, aggregated data with our partners or service providers.
+
+Data Storage and Security:
+Your data is stored locally on your device. We implement appropriate technical and organizational measures to protect your data.
+
+Your Rights:
+You have the right to access, correct, or delete your personal data. You can do this by adjusting your device settings or contacting us.
+
+Changes to This Policy:
+We may update this policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us:
+If you have any questions about this Privacy Policy, please contact us at: [Your Contact Information]

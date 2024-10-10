@@ -1,0 +1,8 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+    <ActionBar title="MyRoute" icon="" />
+    <StackLayout class="p-4">
+        <Label text="Welcome to MyRoute" class="text-2xl text-center mb-4" />
+        <Label text="{{ message }}" class="text-lg text-center mb-4" textWrap="true" />
+        <Button text="Tap Me" tap="{{ onTap }}" class="-primary" />
+    </StackLayout>
+</Page>
