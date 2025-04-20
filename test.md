@@ -1,3 +1,3 @@
-# Prueba
+# Prueba Actualizada
 
-Este es un archivo de prueba creado por MCP.
+Este archivo ha sido actualizado por MCP.
